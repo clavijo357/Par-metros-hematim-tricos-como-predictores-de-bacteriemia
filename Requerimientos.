@@ -1,0 +1,7 @@
+pandas==3.0.3
+numpy==2.5.1
+scipy==1.18
+statsmodels==0.14.6
+sklearn 1.9.0
+matplotlib==3.11
+
