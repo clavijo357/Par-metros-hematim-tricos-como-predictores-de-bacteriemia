@@ -37,7 +37,7 @@ El análisis se organiza en cuatro etapas, cada una en su propio script:
 | Script | Etapa | Contenido |
 |---|---|---|
 | `etapa1_descriptiva.py` | 1 — Estadística descriptiva | Mediana, RIC, media y DE por grupo; prueba de normalidad de Shapiro-Wilk; histogramas y box plots. |
-| `etapa2_bivariado.py` | 2 — Análisis bivariado | Prueba U de Mann-Whitney; tamaño de efecto (r de rango-biserial); AUC con IC 95% por DeLong; corrección de Benjamini-Hochberg; curvas ROC. |
+| `etapa2_bivariado.py` | 2 — Análisis bivariado | Prueba U de Mann-Whitney; AUC; curvas ROC. |
 | `etapa3_correlaciones.py` | 3 — Correlaciones | Matriz de correlación de Spearman entre variables (detección de colinealidad); heatmap. |
 | `etapa4_regresion_logistica.py` | 4 — Análisis multivariado | Regresión logística (modelo completo y modelos de sensibilidad); odds ratios crudos y estandarizados con IC 95%; comparación de AUC entre modelos. |
 
